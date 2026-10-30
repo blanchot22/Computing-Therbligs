@@ -3,7 +3,7 @@
 **Can algorithms identify the Gilbreths' elementary motions of work better than their analysts did?**
 
 Frank and Lillian Gilbreth broke hand work into 17 elementary motions, or *therbligs* (reach, grasp, move,
-hold, release; so on). Their analysts named and timed each one by studying film recorded by the pair of workers frame by frame. This project re-attempts that analysis with computer vision, annotating every frame of one of their films with the [Distant Viewing Toolkit](https://github.com/distant-viewing/dvt), checks the results across the whole film, and scores the outcome against five criteria.
+hold, release; so on). Their analysts named and timed each one by studying film recorded by the pair of workers frame by frame. This project re-attempts that analysis with computer vision, annotating every frame of one of their films with the [Distant Viewing Toolkit](https://github.com/distant-viewing/dvt), checks the results across the whole film. Outcome is scored against five distinct criteria.
 
 Full write-up: [`docs/Computing_Therbligs.pdf`](docs/Computing_Therbligs.pdf) (also as [Word](docs/Computing_Therbligs.docx))
 
