@@ -55,7 +55,7 @@ These determine the results, quite entirely.
 | `K_RANGE` | `03_analyse.py` | 4–12 | Numbers of motion types tried; the one with the best silhouette score is kept |
 | `EPS` | `10_rqa.py` | 0.3 | Two postures "match" if they differ by less than 0.3 shoulder-widths |
 
-All distances are measured in shoulder-widths, so a worker near the camera or far away are comparable.
+All distances are measured in shoulder-widths, so that a worker near the camera or far away are comparable.
 
 ## Running the model
 
