@@ -1,0 +1,181 @@
+{
+  "silhouette_by_k": {
+    "4": 0.20478426993898105,
+    "5": 0.21414004977214135,
+    "6": 0.21838832849719572,
+    "7": 0.23223217635939122,
+    "8": 0.22571232702513966,
+    "9": 0.22293270206027677,
+    "10": 0.2114738299562843,
+    "11": 0.22140422481542615,
+    "12": 0.20865369640684164
+  },
+  "best_k": 7,
+  "n_units": 562,
+  "n_still_units": 25,
+  "letters": [
+    {
+      "letter": 1,
+      "name": "slow short rightward stroke",
+      "n": 106,
+      "share": 0.18861209964412812,
+      "median_duration_s": 0.533866666666654,
+      "median_path_sw": 0.4267736022687329,
+      "median_peak_speed": 1.1543204366649387,
+      "median_straightness": 0.9490472870614007,
+      "median_hand_height": 0.8829450860987755,
+      "medoid_unit": 212,
+      "shots": [
+        17,
+        26,
+        28,
+        30,
+        33,
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        47
+      ]
+    },
+    {
+      "letter": 6,
+      "name": "slow short leftward stroke",
+      "n": 92,
+      "share": 0.16370106761565836,
+      "median_duration_s": 0.533866666666654,
+      "median_path_sw": 0.3727391941312772,
+      "median_peak_speed": 1.0264152901006547,
+      "median_straightness": 0.9500397011745148,
+      "median_hand_height": 0.9013136475262138,
+      "medoid_unit": 353,
+      "shots": [
+        17,
+        26,
+        28,
+        30,
+        32,
+        33,
+        34,
+        36,
+        38,
+        40,
+        42,
+        43
+      ]
+    },
+    {
+      "letter": 4,
+      "name": "slow medium curved",
+      "n": 89,
+      "share": 0.1583629893238434,
+      "median_duration_s": 1.067733333333365,
+      "median_path_sw": 0.5932483525276614,
+      "median_peak_speed": 0.9147875347856139,
+      "median_straightness": 0.4880724261291627,
+      "median_hand_height": 0.853483278364202,
+      "medoid_unit": 361,
+      "shots": [
+        17,
+        19,
+        26,
+        28,
+        30,
+        32,
+        33,
+        34,
+        36,
+        38,
+        40,
+        42,
+        43
+      ]
+    },
+    {
+      "letter": 5,
+      "name": "fast long upward stroke",
+      "n": 87,
+      "share": 0.15480427046263345,
+      "median_duration_s": 0.5338666666666825,
+      "median_path_sw": 1.6129293634089776,
+      "median_peak_speed": 3.920800507495749,
+      "median_straightness": 0.9356405233784216,
+      "median_hand_height": 1.594649487032032,
+      "medoid_unit": 22,
+      "shots": [
+        17,
+        33,
+        34,
+        38,
+        44,
+        46,
+        47
+      ]
+    },
+    {
+      "letter": 3,
+      "name": "fast long downward stroke",
+      "n": 86,
+      "share": 0.15302491103202848,
+      "median_duration_s": 0.5338666666667393,
+      "median_path_sw": 1.7771912226838595,
+      "median_peak_speed": 4.534968797690693,
+      "median_straightness": 0.900554274249254,
+      "median_hand_height": 1.6379188937259155,
+      "medoid_unit": 126,
+      "shots": [
+        17,
+        26,
+        34,
+        36,
+        44,
+        46,
+        47
+      ]
+    },
+    {
+      "letter": 2,
+      "name": "fast long curved",
+      "n": 70,
+      "share": 0.12455516014234876,
+      "median_duration_s": 1.0677333333333365,
+      "median_path_sw": 2.6678322562567214,
+      "median_peak_speed": 4.611253780714494,
+      "median_straightness": 0.5425029471799636,
+      "median_hand_height": 1.6275562062959212,
+      "medoid_unit": 87,
+      "shots": [
+        17,
+        19,
+        36,
+        38,
+        44,
+        46,
+        47
+      ]
+    },
+    {
+      "letter": 0,
+      "name": "slow short down-left stroke",
+      "n": 32,
+      "share": 0.05693950177935943,
+      "median_duration_s": 0.5338666666666683,
+      "median_path_sw": 0.26332856237696833,
+      "median_peak_speed": 0.6343594513842183,
+      "median_straightness": 0.8352779660312795,
+      "median_hand_height": 3.485343975400058,
+      "medoid_unit": 161,
+      "shots": [
+        17,
+        19
+      ]
+    }
+  ],
+  "params": {
+    "MIN_PERSON": 0.6,
+    "KP_THR": 0.5,
+    "V_STILL": 0.4
+  }
+}

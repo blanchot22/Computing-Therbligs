@@ -1,0 +1,171 @@
+{
+  "silhouette_by_k": {
+    "4": 0.21063774720884215,
+    "5": 0.22554391507750715,
+    "6": 0.23957627643055576,
+    "7": 0.24885881363473544,
+    "8": 0.26093971310819186,
+    "9": 0.2711930570271804,
+    "10": 0.26128352984361414,
+    "11": 0.23847894007225415,
+    "12": 0.2667073574328988
+  },
+  "best_k": 9,
+  "n_units": 143,
+  "n_still_units": 4,
+  "letters": [
+    {
+      "letter": 2,
+      "name": "brisk medium leftward stroke",
+      "n": 32,
+      "share": 0.22377622377622378,
+      "median_duration_s": 0.3336666666666588,
+      "median_path_sw": 0.5140310860774449,
+      "median_peak_speed": 2.4810043577945584,
+      "median_straightness": 0.9335908984912575,
+      "median_hand_height": 0.8008394088274216,
+      "medoid_unit": 78,
+      "shots": [
+        26,
+        28,
+        30
+      ]
+    },
+    {
+      "letter": 0,
+      "name": "brisk short rightward stroke",
+      "n": 27,
+      "share": 0.1888111888111888,
+      "median_duration_s": 0.266933333333327,
+      "median_path_sw": 0.4905570780261435,
+      "median_peak_speed": 2.442658884784562,
+      "median_straightness": 0.9481829249216542,
+      "median_hand_height": 0.7815031082082488,
+      "medoid_unit": 75,
+      "shots": [
+        26,
+        28
+      ]
+    },
+    {
+      "letter": 4,
+      "name": "slow short leftward stroke",
+      "n": 21,
+      "share": 0.14685314685314685,
+      "median_duration_s": 0.40039999999999054,
+      "median_path_sw": 0.21844149758165307,
+      "median_peak_speed": 0.7499795848010835,
+      "median_straightness": 0.5899573586150424,
+      "median_hand_height": 0.791175096805475,
+      "medoid_unit": 4,
+      "shots": [
+        26,
+        30
+      ]
+    },
+    {
+      "letter": 3,
+      "name": "slow short rightward stroke",
+      "n": 15,
+      "share": 0.1048951048951049,
+      "median_duration_s": 0.266933333333327,
+      "median_path_sw": 0.15877855783274555,
+      "median_peak_speed": 0.7741304893587415,
+      "median_straightness": 0.9631176029311225,
+      "median_hand_height": 0.78638219486108,
+      "medoid_unit": 36,
+      "shots": [
+        26,
+        28,
+        30
+      ]
+    },
+    {
+      "letter": 1,
+      "name": "slow short leftward stroke",
+      "n": 14,
+      "share": 0.0979020979020979,
+      "median_duration_s": 0.20019999999999527,
+      "median_path_sw": 0.13954856864689769,
+      "median_peak_speed": 0.845009018042763,
+      "median_straightness": 0.9425945170220287,
+      "median_hand_height": 0.762463617338976,
+      "medoid_unit": 3,
+      "shots": [
+        26,
+        28,
+        30
+      ]
+    },
+    {
+      "letter": 5,
+      "name": "brisk medium curved",
+      "n": 9,
+      "share": 0.06293706293706294,
+      "median_duration_s": 0.6005999999999858,
+      "median_path_sw": 0.7865732743059551,
+      "median_peak_speed": 2.106708264717521,
+      "median_straightness": 0.4997719673862454,
+      "median_hand_height": 0.7289520575155027,
+      "medoid_unit": 1,
+      "shots": [
+        26,
+        28,
+        30
+      ]
+    },
+    {
+      "letter": 6,
+      "name": "brisk short rightward stroke",
+      "n": 9,
+      "share": 0.06293706293706294,
+      "median_duration_s": 0.266933333333327,
+      "median_path_sw": 0.3379866062123143,
+      "median_peak_speed": 2.340764943211244,
+      "median_straightness": 0.9092412108976619,
+      "median_hand_height": 0.5091796710190917,
+      "medoid_unit": 121,
+      "shots": [
+        30
+      ]
+    },
+    {
+      "letter": 7,
+      "name": "brisk short downward stroke",
+      "n": 9,
+      "share": 0.06293706293706294,
+      "median_duration_s": 0.20020000000005211,
+      "median_path_sw": 0.28507371507052803,
+      "median_peak_speed": 1.517149111624686,
+      "median_straightness": 0.9500390403079371,
+      "median_hand_height": 0.8127693087167792,
+      "medoid_unit": 52,
+      "shots": [
+        26,
+        30
+      ]
+    },
+    {
+      "letter": 8,
+      "name": "brisk short upward stroke",
+      "n": 7,
+      "share": 0.04895104895104895,
+      "median_duration_s": 0.266933333333327,
+      "median_path_sw": 0.3236503613571427,
+      "median_peak_speed": 1.8306749939117735,
+      "median_straightness": 0.9779140753864107,
+      "median_hand_height": 0.6920247939470163,
+      "medoid_unit": 61,
+      "shots": [
+        26,
+        28,
+        30
+      ]
+    }
+  ],
+  "params": {
+    "MIN_PERSON": 0.6,
+    "KP_THR": 0.5,
+    "V_STILL": 0.4
+  }
+}

@@ -1,0 +1,11 @@
+torch
+torchvision
+opencv-python-headless
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+pillow
+tqdm
+dvt==1.1.0

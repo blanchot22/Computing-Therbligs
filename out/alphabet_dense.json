@@ -1,0 +1,191 @@
+{
+  "silhouette_by_k": {
+    "4": 0.19972458125941045,
+    "5": 0.21423605671248536,
+    "6": 0.2187382097758929,
+    "7": 0.23333846498619648,
+    "8": 0.2292281152263606,
+    "9": 0.2133454673450295,
+    "10": 0.21122891259255921,
+    "11": 0.20741863113979697,
+    "12": 0.20802624481045776
+  },
+  "best_k": 7,
+  "n_units": 1084,
+  "n_still_units": 12,
+  "letters": [
+    {
+      "letter": 2,
+      "name": "brisk short leftward stroke",
+      "n": 244,
+      "share": 0.22509225092250923,
+      "median_duration_s": 0.266933333333327,
+      "median_path_sw": 0.43756490616678767,
+      "median_peak_speed": 2.2874331676177366,
+      "median_straightness": 0.9311133295106127,
+      "median_hand_height": 0.8905208811087225,
+      "medoid_unit": 733,
+      "shots": [
+        17,
+        26,
+        28,
+        30,
+        32,
+        33,
+        34,
+        36,
+        38,
+        40,
+        42,
+        43,
+        44,
+        46
+      ]
+    },
+    {
+      "letter": 1,
+      "name": "brisk short rightward stroke",
+      "n": 214,
+      "share": 0.1974169741697417,
+      "median_duration_s": 0.266933333333327,
+      "median_path_sw": 0.3910050074797207,
+      "median_peak_speed": 2.0677235063892105,
+      "median_straightness": 0.9626550239065106,
+      "median_hand_height": 0.852743347067232,
+      "medoid_unit": 875,
+      "shots": [
+        17,
+        26,
+        28,
+        30,
+        32,
+        33,
+        34,
+        36,
+        38,
+        40,
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "letter": 5,
+      "name": "brisk medium curved",
+      "n": 163,
+      "share": 0.1503690036900369,
+      "median_duration_s": 0.533866666666654,
+      "median_path_sw": 0.5041803697439873,
+      "median_peak_speed": 1.5784969926282546,
+      "median_straightness": 0.4770361760752747,
+      "median_hand_height": 0.8753692513335966,
+      "medoid_unit": 798,
+      "shots": [
+        17,
+        19,
+        26,
+        28,
+        30,
+        32,
+        33,
+        34,
+        36,
+        38,
+        40,
+        43,
+        44
+      ]
+    },
+    {
+      "letter": 3,
+      "name": "fast long curved",
+      "n": 145,
+      "share": 0.13376383763837638,
+      "median_duration_s": 0.6673333333333176,
+      "median_path_sw": 2.5009672958568165,
+      "median_peak_speed": 7.258146030806158,
+      "median_straightness": 0.5300098044134283,
+      "median_hand_height": 1.5569697956254398,
+      "medoid_unit": 951,
+      "shots": [
+        17,
+        19,
+        26,
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        47
+      ]
+    },
+    {
+      "letter": 6,
+      "name": "fast long downward stroke",
+      "n": 139,
+      "share": 0.1282287822878229,
+      "median_duration_s": 0.3336666666666588,
+      "median_path_sw": 1.661557865039374,
+      "median_peak_speed": 8.469018205674827,
+      "median_straightness": 0.9461154431037788,
+      "median_hand_height": 1.6385740365738097,
+      "medoid_unit": 229,
+      "shots": [
+        17,
+        19,
+        26,
+        34,
+        36,
+        38,
+        43,
+        44,
+        46,
+        47
+      ]
+    },
+    {
+      "letter": 4,
+      "name": "fast long upward stroke",
+      "n": 129,
+      "share": 0.11900369003690037,
+      "median_duration_s": 0.3336666666666588,
+      "median_path_sw": 1.965659982074499,
+      "median_peak_speed": 8.953241778859597,
+      "median_straightness": 0.919543199215073,
+      "median_hand_height": 1.6878680093970924,
+      "medoid_unit": 261,
+      "shots": [
+        17,
+        33,
+        36,
+        38,
+        44,
+        46,
+        47
+      ]
+    },
+    {
+      "letter": 0,
+      "name": "slow short downward stroke",
+      "n": 50,
+      "share": 0.046125461254612546,
+      "median_duration_s": 0.26693333333334124,
+      "median_path_sw": 0.22633573579105165,
+      "median_peak_speed": 0.9267763653901211,
+      "median_straightness": 0.8051693248144391,
+      "median_hand_height": 3.4102867269562633,
+      "medoid_unit": 344,
+      "shots": [
+        17,
+        19
+      ]
+    }
+  ],
+  "params": {
+    "MIN_PERSON": 0.6,
+    "KP_THR": 0.5,
+    "V_STILL": 0.4
+  }
+}

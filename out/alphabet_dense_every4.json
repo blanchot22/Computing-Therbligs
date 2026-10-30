@@ -1,0 +1,152 @@
+{
+  "silhouette_by_k": {
+    "4": 0.21955275073462072,
+    "5": 0.24513571896044398,
+    "6": 0.2594404075311069,
+    "7": 0.2577251330961327,
+    "8": 0.25824489990370086,
+    "9": 0.23828711216843068,
+    "10": 0.25571657239330775,
+    "11": 0.231534380474124,
+    "12": 0.21646240041240047
+  },
+  "best_k": 6,
+  "n_units": 285,
+  "n_still_units": 35,
+  "letters": [
+    {
+      "letter": 2,
+      "name": "brisk long upward stroke",
+      "n": 54,
+      "share": 0.18947368421052632,
+      "median_duration_s": 1.3346666666666636,
+      "median_path_sw": 2.02318943231138,
+      "median_peak_speed": 2.160158124250669,
+      "median_straightness": 0.9324977449939409,
+      "median_hand_height": 1.4320416283644248,
+      "medoid_unit": 16,
+      "shots": [
+        17,
+        34,
+        38,
+        43,
+        46,
+        47
+      ]
+    },
+    {
+      "letter": 1,
+      "name": "slow short leftward stroke",
+      "n": 51,
+      "share": 0.17894736842105263,
+      "median_duration_s": 1.067733333333308,
+      "median_path_sw": 0.4672970862168188,
+      "median_peak_speed": 0.6356499426769818,
+      "median_straightness": 0.9407603345747202,
+      "median_hand_height": 0.862656690742194,
+      "medoid_unit": 174,
+      "shots": [
+        17,
+        19,
+        26,
+        28,
+        30,
+        33,
+        34,
+        36,
+        38,
+        43
+      ]
+    },
+    {
+      "letter": 4,
+      "name": "slow medium curved",
+      "n": 49,
+      "share": 0.17192982456140352,
+      "median_duration_s": 2.4024,
+      "median_path_sw": 0.7591969267522303,
+      "median_peak_speed": 0.5827362298899517,
+      "median_straightness": 0.4168225324689758,
+      "median_hand_height": 0.894110737108352,
+      "medoid_unit": 221,
+      "shots": [
+        17,
+        19,
+        26,
+        28,
+        30,
+        32,
+        33,
+        34,
+        36,
+        38,
+        43
+      ]
+    },
+    {
+      "letter": 0,
+      "name": "slow medium rightward stroke",
+      "n": 47,
+      "share": 0.1649122807017544,
+      "median_duration_s": 1.067733333333308,
+      "median_path_sw": 0.5345361235095387,
+      "median_peak_speed": 0.6953922814665146,
+      "median_straightness": 0.928109022424213,
+      "median_hand_height": 0.8871649747116385,
+      "medoid_unit": 110,
+      "shots": [
+        17,
+        19,
+        26,
+        28,
+        30,
+        33,
+        34,
+        36,
+        47
+      ]
+    },
+    {
+      "letter": 5,
+      "name": "brisk long downward stroke",
+      "n": 47,
+      "share": 0.1649122807017544,
+      "median_duration_s": 1.3346666666666351,
+      "median_path_sw": 1.691032981922874,
+      "median_peak_speed": 1.9750402536626668,
+      "median_straightness": 0.9538749595908497,
+      "median_hand_height": 1.6575217634627537,
+      "medoid_unit": 258,
+      "shots": [
+        17,
+        36,
+        46,
+        47
+      ]
+    },
+    {
+      "letter": 3,
+      "name": "brisk long curved",
+      "n": 37,
+      "share": 0.12982456140350876,
+      "median_duration_s": 1.8685333333334029,
+      "median_path_sw": 2.0496440123076343,
+      "median_peak_speed": 2.070278283910498,
+      "median_straightness": 0.3504610339952885,
+      "median_hand_height": 2.0776072442763227,
+      "medoid_unit": 64,
+      "shots": [
+        17,
+        19,
+        38,
+        46,
+        47
+      ]
+    }
+  ],
+  "params": {
+    "MIN_PERSON": 0.6,
+    "KP_THR": 0.5,
+    "V_STILL": 0.4
+  }
+}
